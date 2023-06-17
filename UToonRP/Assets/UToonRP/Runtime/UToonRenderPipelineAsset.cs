@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Rendering;
 
-[CreateAssetMenu(menuName = "Rendering/Custom Render Pipeline")]
+[CreateAssetMenu(menuName = "Rendering/UToon Render Pipeline")]
 public class UToonRenderPipelineAsset : RenderPipelineAsset
 {
     [SerializeField] private bool useDynamicBatching = true,
