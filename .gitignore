@@ -1,0 +1,17 @@
+/UToonRP/Logs
+/UToonRP/obj
+/UToonRP/Temp
+/UToonRP/.idea
+/UToonRP/Library
+/UToonRP/Unity.RenderPipelines.Core.Editor.Tests.csproj
+/UToonRP/Unity.RenderPipelines.Core.Runtime.csproj
+/UToonRP/Unity.RenderPipelines.Core.Runtime.Tests.csproj
+/UToonRP/Unity.RenderPipelines.Core.ShaderLibrary.csproj
+/UToonRP/UToonRP.sln
+/UToonRP/UToonRP.sln.DotSettings.user
+/UToonRP/.vsconfig
+/UToonRP/Assembly-CSharp.csproj
+/UToonRP/Assembly-CSharp-Editor.csproj
+/UToonRP/MagicaCloth.csproj
+/UToonRP/MagicaCloth.Editor.csproj
+/UToonRP/Unity.RenderPipelines.Core.Editor.csproj
